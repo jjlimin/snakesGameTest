@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|solutionrelative:snakeTest1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\general.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|solutionrelative:snakeTest1\\general.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|solutionrelative:snakeTest1\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\gameConfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|solutionrelative:snakeTest1\\gameConfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\gameConfig.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|solutionrelative:snakeTest1\\gameConfig.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|solutionrelative:snakeTest1\\point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|solutionrelative:snakeTest1\\snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\snakesGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|solutionrelative:snakeTest1\\snakesGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|solutionrelative:snakeTest1\\point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\general.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|solutionrelative:snakeTest1\\general.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\snakesGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A609E11E-05CF-43CF-B81C-CDD15D03E311}|snakeTest1\\snakeTest1.vcxproj|solutionrelative:snakeTest1\\snakesGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "snakesGame.cpp",
+              "DocumentMoniker": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\snakesGame.cpp",
+              "RelativeDocumentMoniker": "snakeTest1\\snakesGame.cpp",
+              "ToolTip": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\snakesGame.cpp",
+              "RelativeToolTip": "snakeTest1\\snakesGame.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T21:10:29.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "snakesGame.h",
+              "DocumentMoniker": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\snakesGame.h",
+              "RelativeDocumentMoniker": "snakeTest1\\snakesGame.h",
+              "ToolTip": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\snakesGame.h",
+              "RelativeToolTip": "snakeTest1\\snakesGame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T21:07:26.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "snake.cpp",
+              "DocumentMoniker": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\snake.cpp",
+              "RelativeDocumentMoniker": "snakeTest1\\snake.cpp",
+              "ToolTip": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\snake.cpp",
+              "RelativeToolTip": "snakeTest1\\snake.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T20:43:57.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "snake.h",
+              "DocumentMoniker": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\snake.h",
+              "RelativeDocumentMoniker": "snakeTest1\\snake.h",
+              "ToolTip": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\snake.h",
+              "RelativeToolTip": "snakeTest1\\snake.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T20:39:45.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "point.cpp",
+              "DocumentMoniker": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\point.cpp",
+              "RelativeDocumentMoniker": "snakeTest1\\point.cpp",
+              "ToolTip": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\point.cpp",
+              "RelativeToolTip": "snakeTest1\\point.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T20:29:57.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "point.h",
+              "DocumentMoniker": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\point.h",
+              "RelativeDocumentMoniker": "snakeTest1\\point.h",
+              "ToolTip": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\point.h",
+              "RelativeToolTip": "snakeTest1\\point.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T20:26:12.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gameConfig.cpp",
+              "DocumentMoniker": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\gameConfig.cpp",
+              "RelativeDocumentMoniker": "snakeTest1\\gameConfig.cpp",
+              "ToolTip": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\gameConfig.cpp",
+              "RelativeToolTip": "snakeTest1\\gameConfig.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T20:13:27.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\main.cpp",
+              "RelativeDocumentMoniker": "snakeTest1\\main.cpp",
+              "ToolTip": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\main.cpp",
+              "RelativeToolTip": "snakeTest1\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T20:13:38.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gameConfig.h",
+              "DocumentMoniker": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\gameConfig.h",
+              "RelativeDocumentMoniker": "snakeTest1\\gameConfig.h",
+              "ToolTip": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\gameConfig.h",
+              "RelativeToolTip": "snakeTest1\\gameConfig.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T20:13:22.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "general.h",
+              "DocumentMoniker": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\general.h",
+              "RelativeDocumentMoniker": "snakeTest1\\general.h",
+              "ToolTip": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\general.h",
+              "RelativeToolTip": "snakeTest1\\general.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T20:12:40.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "general.cpp",
+              "DocumentMoniker": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\general.cpp",
+              "RelativeDocumentMoniker": "snakeTest1\\general.cpp",
+              "ToolTip": "C:\\Users\\jjlim\\source\\repos\\snakeTest1\\snakeTest1\\general.cpp",
+              "RelativeToolTip": "snakeTest1\\general.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T20:12:29.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
